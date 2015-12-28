@@ -6,4 +6,4 @@
  * Time: 03:48
  */
 
-echo 'hello_world!!!';
+echo 'hello_world!!! some trash';
