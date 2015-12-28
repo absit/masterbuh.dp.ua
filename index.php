@@ -7,3 +7,4 @@
  */
 
 echo 'hello_world!!! some trash';
+echo "here will be php error".(2/0);
